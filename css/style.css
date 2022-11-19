@@ -256,7 +256,8 @@ color: var(--text-color);
 .team-container{
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #FFFFFF;;
+    background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .title-item{
@@ -272,8 +273,7 @@ margin-bottom: 10px;
 }
 
 .team-cards {
-border-bottom-left-radius: 4px;
-border-bottom-right-radius: 4px;
+    border-radius: 0px 0px 4px 4px;
 box-shadow: 0px 4px 4px 0px hsla(0, 0%, 0%, 0.25);
 }
 
